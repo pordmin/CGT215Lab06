@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CGT215Lab06\\x64\\Debug\\CGT215Lab06.obj",
+            "outputs": [
+                "CGT215Lab06\\x64\\Debug\\CGT215Lab06.cpp.obj.dt.module.json",
+                "CGT215Lab06\\x64\\Debug\\CGT215Lab06.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
